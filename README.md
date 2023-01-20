@@ -3,4 +3,6 @@
 
 
 **Objeto:** Cronômetro.
+
+
 **Função:** Este tem a função principal de que quando iniciado apresente uma tela no cmd, para demonstrar o cronograma em ação.
